@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">AndroidWelcome</string>
+    <string name="app_name">BienvenidoAndroid</string>
+    <string name="lbl_saludoInicial">Bienvenido</string>
+    <string name="btn_Entrar">Entrar</string>
 </resources>
