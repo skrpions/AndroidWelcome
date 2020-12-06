@@ -7,4 +7,15 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Start :: Colores Personalizados -->
+    <color name="fondo_oscuro">#34495E</color>
+    <color name="plateado">#D0D3D4</color>
+    <color name="aqua">#76d7c4</color>
+
+    <color name="blue_700">#1976D2</color>
+    <color name="lightblue_500">#2196F3</color>
+    <color name="cyan_300">#00BCD4</color>
+    <!-- End :: Colores Personalizados -->
+
 </resources>
