@@ -24,8 +24,8 @@
         android:id="@+id/btn_Ingresar"
         android:layout_width="@dimen/dimensión_ancho_Boton"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="@dimen/dimensión_margintop_button_port"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/dimensión_margintop_button_tablet_port"
         android:text="@string/btn_Entrar"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="@color/white"
@@ -33,6 +33,6 @@
         app:backgroundTint="@android:color/transparent"
         app:rippleColor="@color/white"
         app:strokeColor="@color/white"
-        app:strokeWidth="@dimen/cardview_compat_inset_shadow"/>
+        app:strokeWidth="@dimen/cardview_compat_inset_shadow" />
 
 </LinearLayout>
